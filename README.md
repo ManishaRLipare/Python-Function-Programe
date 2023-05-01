@@ -1,2 +1,2 @@
-# Python-Function-Programe
+# Python-Function-Program
 Program using function
